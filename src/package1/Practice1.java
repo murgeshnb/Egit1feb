@@ -7,7 +7,7 @@ public class Practice1 {
 		
 		System.out.println("USer 1 first push");
 		
-		System.out.println("USer 2 first push");
+		System.out.println("USer 2 first push ");
 
 	}
 
