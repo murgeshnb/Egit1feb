@@ -6,6 +6,8 @@ public class Practice1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("USer 1 first push");
+		
+		System.out.println("USer 2 first push");
 
 	}
 
